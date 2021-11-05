@@ -1,0 +1,23 @@
+.img1 {
+    background-image: url(https://www.nasa.gov/sites/default/files/thumbnails/image/datatech.jpg);
+}
+
+.img2 {
+    background-image: url(https://miro.medium.com/max/8064/1*41bS40IpESSbt6bVgrTYuQ.jpeg);
+}
+
+.color1 {
+    color: #45A0D8;
+}
+
+.color2 {
+    color: #6F00A5;
+}
+
+.bcolor1 {
+    background-color: #45A0D8;
+}
+
+.bcolor2 {
+    background-color: #6F00A5;
+}
